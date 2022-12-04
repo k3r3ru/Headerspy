@@ -1,5 +1,5 @@
 # Headerspy
-A PE Rich Header parser written in Python, written as an excercise while deepening my knowledge on the structure of PE file formats
+A PE Rich Header parser written in Python as an excercise
 
 Based on 0xRick blog series https://0xrick.github.io
 
